@@ -2,11 +2,11 @@
 ### Overview:
 The Northwind database is a sample database created by Microsoft, containing the sales data of "Northwind Traders," a fictitious company that imports and exports specialty foods worldwide. It includes details on customers, orders, inventory, purchasing, suppliers, shipping, employees, and single-entry accounting.
 ### Tools & Techniques
-***SQL:*** <br>
+- ***SQL:*** <br>
 Created views and tables; adjusted database diagrams. <br>
-***Python (Pandas):*** <br>
+- ***Python (Pandas):*** <br>
 Calculated growth rates. <br>
-***Excel:*** <br>
+- ***Excel:*** <br>
 Employed Power Query, Power Pivot, and pivot tables to analyze data, create relationships, and develop interactive dashboards. <br>
 ### Roles & Responsibilities:
 ***Data Cleaning and Standardization:*** <br>
